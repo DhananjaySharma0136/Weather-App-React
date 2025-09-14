@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://DhananjaySharma0136.github.io/WeatherReactApp/",
+ "homepage": "https://DhananjaySharma0136.github.io/Weather-App-React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
